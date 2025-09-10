@@ -31,8 +31,8 @@ An advanced external cheat solution for CS2 with a comprehensive feature set and
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/tho-gfusion.git
-cd tho-gfusion
+git clone https://github.com/HANNIBAL-THO/THO-GFUSION-CS2
+cd THO-GFUSION-CS2
 ```
 
 2. Run the installation batch file
@@ -100,6 +100,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 Created with ❤️ by Hannibal THO
+
 
 
 
