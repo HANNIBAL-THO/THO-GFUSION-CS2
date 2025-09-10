@@ -61,7 +61,7 @@ This project is for educational purposes only. Use at your own risk. We take no 
 
 Join our Discord community for support, updates and discussions:
 
-[![Discord Banner](https://discord.com/api/guilds/[server-id]/widget.png?style=banner2)](https://discord.gg/uPESr5v7yQ)
+[![Discord][(https://discord.com/api/guilds/[server-id]/widget.png?style=banner2)](https://discord.com/api/guilds/1396624126256349256/widget.json)](https://discord.gg/uPESr5v7yQ)
 
 ## 🔑 Key Features Details
 
@@ -97,5 +97,6 @@ Join our Discord community for support, updates and discussions:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🌟 Credits
+
 
 Created with ❤️ by Hannibal THO
