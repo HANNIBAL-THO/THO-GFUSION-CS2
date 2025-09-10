@@ -61,7 +61,7 @@ This project is for educational purposes only. Use at your own risk. We take no 
 
 Join our Discord community for support, updates and discussions:
 
-[![Discord][(<iframe src="https://discord.com/widget?id=1396624126256349256&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>](https://discord.gg/uPESr5v7yQ)
+[![Discord](https://discord.gg/uPESr5v7yQ)
 
 ## 🔑 Key Features Details
 
@@ -100,4 +100,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 Created with ❤️ by Hannibal THO
+
 
